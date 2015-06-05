@@ -1,0 +1,35 @@
+{
+  "name": "is-comparator-valid",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Check if a semver comparator is valid",
+  "license": "MIT",
+  "repository": "bendrucker/is-comparator-valid",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "semver",
+    "comparator",
+    "version"
+  ],
+  "dependencies": {
+    "semver": "~4.3.6"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
