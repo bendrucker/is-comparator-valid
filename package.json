@@ -1,7 +1,7 @@
 {
   "name": "is-comparator-valid",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a semver comparator is valid",
   "license": "MIT",
   "repository": "bendrucker/is-comparator-valid",
