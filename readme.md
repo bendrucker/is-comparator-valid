@@ -1,4 +1,4 @@
-# is-comparator-valid [![Build Status](https://travis-ci.org/bendrucker/is-comparator-valid.svg?branch=master)](https://travis-ci.org/bendrucker/is-comparator-valid)
+# is-comparator-valid [![Build Status](https://travis-ci.org/bendrucker/is-comparator-valid.svg?branch=master)](https://travis-ci.org/bendrucker/is-comparator-valid) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/is-comparator-valid.svg)](https://greenkeeper.io/)
 
 > Check if a semver comparator is valid
 
